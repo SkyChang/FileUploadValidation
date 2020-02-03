@@ -1,4 +1,5 @@
 ﻿using FileUploadValidation.Utility;
+using FileUploadValidation.Utility.Lib;
 using Microsoft.AspNetCore.Http;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FileUploadValidation.Attributes
+namespace FileUploadValidation.Utility.Attributes
 {
     public class AllowedExtensionsAttribute : ValidationAttribute
     {

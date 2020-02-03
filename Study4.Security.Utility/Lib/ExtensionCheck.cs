@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FileUploadValidation.Utility
+namespace FileUploadValidation.Utility.Lib
 {
     public class ExtensionCheck : IExtensionCheck
     {

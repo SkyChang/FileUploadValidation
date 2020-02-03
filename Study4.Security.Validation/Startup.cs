@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace FileUploadValidation
+namespace Study4.Security.Utility.Test
 {
     public class Startup
     {

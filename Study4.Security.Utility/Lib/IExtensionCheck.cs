@@ -1,4 +1,4 @@
-﻿namespace FileUploadValidation.Utility
+﻿namespace FileUploadValidation.Utility.Lib
 {
     public interface IExtensionCheck
     {

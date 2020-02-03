@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace FileUploadValidation.Controllers
+namespace Study4.Security.Utility.Test.Controllers
 {
     [ApiController]
     [Route("[controller]")]

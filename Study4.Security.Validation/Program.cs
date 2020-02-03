@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace FileUploadValidation
+namespace Study4.Security.Utility.Test
 {
     public class Program
     {

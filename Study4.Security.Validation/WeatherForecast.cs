@@ -1,6 +1,6 @@
 using System;
 
-namespace FileUploadValidation
+namespace Study4.Security.Utility.Test
 {
     public class WeatherForecast
     {
