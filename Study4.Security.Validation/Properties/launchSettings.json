@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "FileUploadValidation": {
+    "Study4.Security.Utility.Test": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",

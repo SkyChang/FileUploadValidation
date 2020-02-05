@@ -8,7 +8,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FileUploadValidation.Utility.Attributes
+namespace Study4.Security.Utility.Attributes
 {
     public class AllowedExtensionsAttribute : ValidationAttribute
     {

@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FileUploadValidation.Utility.Attributes
+namespace Study4.Security.Utility.Attributes
 {
     public class MaxFileSizeAttribute : ValidationAttribute
     {
